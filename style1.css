@@ -1,0 +1,56 @@
+#banner{
+	background-image: url(background/black-background_00313351.jpg);
+	background-repeat: no-repeat;
+	background-color: #fff;
+	padding: 150px;
+}
+#banner h1{
+	color: #ffc60c;
+	margin-bottom: 100px;
+}
+#banner a{
+	text-decoration: none;
+	outline: none;
+	padding: 20px 35px;
+	border: 2px solid black;
+	color: #ffc60c;
+}
+#lorem p{
+	font-size: 15px;
+}
+#lorem a{
+	text-decoration: none;
+	outline: none;
+	padding: 10px 15px;
+	border: 2px solid black;
+	color: #ffc60c;
+	background-color: grey;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+img{
+	border-radius: 10px;
+}
+#something h2{
+margin: 20px;
+margin-bottom: 60px;
+}
+a:hover{
+    background-color:#999999;
+	color: black;
+	border: 2px solid black;
+	opacity: 0.9;
+	transition: all 0.5s ease-in-out;
+	opacity: 0.9;
+}
+#ipsum h2:after{
+	content: '';
+	padding: 0px;
+	border: 1px solid black;
+	font-size: 2%;
+	display: block;
+	height: 2px;
+	width: 61px;
+	position: relative;
+	left: 47%;
+}
